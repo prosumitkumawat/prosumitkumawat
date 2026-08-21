@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bhavishy Gurjar</h1>
-<h3 align="center">🚀 Frontend & Backend Developer | JEE 2027 Aspirant</h3>
+<h1 align="center">Hi 👋, I'm Sumitkumawat</h1>
+<h3 align="center">🚀 Frontend & Backend Developer | SSC ASPPIRANT 2026</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prosumitkumawat&label=Profile%20views&color=0e75b6&style=flat" />
