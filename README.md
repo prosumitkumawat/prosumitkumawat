@@ -15,18 +15,13 @@
          alt="Achievement: YOLO">
   </a>
 
-  <a href="https://github.com/prosumitkumawat?achievement=pair-extraordinaire&tab=achievements">
-    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png"
-         width="64"
-         alt="Achievement: Pair Extraordinaire">
-    <sup>×3</sup>
-  </a>
+ 
 
   <a href="https://github.com/Bhavishy-dev?achievement=pull-shark&tab=achievements">
     <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"
          width="64"
          alt="Achievement: Pull Shark">
-    <sup>×2</sup>
+  
   </a>
 </p>
 
