@@ -29,7 +29,7 @@
 
 ## 🧠 About Me
 
-- vibe coding
+- **vibe coding**
 -📫 Reach me at: **sumitkumawat090912@gmail.com**
 
 
